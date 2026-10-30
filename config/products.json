@@ -1,0 +1,23 @@
+
+[
+  {
+    "store": "Pokemon Center",
+    "name": "Pokemon TCG Booster Box",
+    "url": "https://www.pokemoncenter.com/"
+  },
+  {
+    "store": "Target",
+    "name": "Pokemon TCG Elite Trainer Box",
+    "url": "https://www.target.com/c/pokemon/-/N-4tg1a"
+  },
+  {
+    "store": "Walmart",
+    "name": "Pokemon TCG Booster Bundle",
+    "url": "https://www.walmart.com/search?q=pokemon+cards"
+  },
+  {
+    "store": "Best Buy",
+    "name": "Pokemon TCG Special Collection",
+    "url": "https://www.bestbuy.com/site/searchpage.jsp?st=pokemon+cards"
+  }
+]
